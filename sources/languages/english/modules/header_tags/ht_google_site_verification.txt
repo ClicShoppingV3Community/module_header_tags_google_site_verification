@@ -1,0 +1,4 @@
+
+ module_header_tags_google_site_verification_title = Do you want to install Google site verification code
+ module_header_tags_google_site_verification_description = Add a code to allow Google to identify your site
+
