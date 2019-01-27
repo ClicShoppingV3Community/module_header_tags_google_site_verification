@@ -16,7 +16,7 @@ Recommendation and documentation specific use :
 
 
 Implementation:
-
+- License GPL2 - MIT
 - Install the module
 - Activate the module
 
